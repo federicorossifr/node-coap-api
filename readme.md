@@ -1,5 +1,5 @@
 # Coap API
-
+[![Build Status](https://travis-ci.org/federicorossifr/node-coap-api.svg?branch=master)](https://travis-ci.org/federicorossifr/node-coap-api)
 # Installation
 ```bash
 npm install coap-api --save
