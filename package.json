@@ -14,5 +14,9 @@
   "keywords": [
     "CoAP",
     "IoT"
-  ]
+  ],
+"repository": {
+  "type" : "git",
+  "url" : "https://github.com/federicorossifr/node-coap-api.git"
+}
 }
