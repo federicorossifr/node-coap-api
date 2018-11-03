@@ -47,5 +47,5 @@ coapApi.DELETE(host,resourceEndpoint)
 **observe**
 ```javascript
 var coapApi = require("coap-api");
-coapApi.PUT(host,resourceEndpoint,getQueryString,(response) => {...})
+coapApi.observe(host,resourceEndpoint,getQueryString,(response) => {...})
 ```
