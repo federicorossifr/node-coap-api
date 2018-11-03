@@ -1,6 +1,6 @@
 {
   "name": "coap-api",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Coap API Wrapper",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
     "CoAP",
     "IoT"
   ],
-"repository": {
-  "type" : "git",
-  "url" : "https://github.com/federicorossifr/node-coap-api.git"
-}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/federicorossifr/node-coap-api.git"
+  }
 }
