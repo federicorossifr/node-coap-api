@@ -99,6 +99,7 @@ function DELETE(host,endpoint) {
 		var req = coap.request({
 			host: host,
 			method: "DELETE",
+			pathname: endpoint
 		});
 		req.on('response', res => {
 			var r = {
